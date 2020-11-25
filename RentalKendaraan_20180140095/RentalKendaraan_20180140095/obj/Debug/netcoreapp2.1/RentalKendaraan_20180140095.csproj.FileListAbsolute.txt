@@ -35,3 +35,8 @@ D:\Kuliah\Semester 5\praktikum pat paw\RentalKendaraan_20180140095\RentalKendara
 D:\Kuliah\Semester 5\praktikum pat paw\RentalKendaraan_20180140095\RentalKendaraan_20180140095\obj\Debug\netcoreapp2.1\Razor\Views\Costumers\Details.g.cshtml.cs
 D:\Kuliah\Semester 5\praktikum pat paw\RentalKendaraan_20180140095\RentalKendaraan_20180140095\obj\Debug\netcoreapp2.1\Razor\Views\Costumers\Edit.g.cshtml.cs
 D:\Kuliah\Semester 5\praktikum pat paw\RentalKendaraan_20180140095\RentalKendaraan_20180140095\obj\Debug\netcoreapp2.1\Razor\Views\Costumers\Index.g.cshtml.cs
+D:\Kuliah\Semester 5\praktikum pat paw\RentalKendaraan_20180140095\RentalKendaraan_20180140095\obj\Debug\netcoreapp2.1\Razor\Views\Genders\Create.g.cshtml.cs
+D:\Kuliah\Semester 5\praktikum pat paw\RentalKendaraan_20180140095\RentalKendaraan_20180140095\obj\Debug\netcoreapp2.1\Razor\Views\Genders\Delete.g.cshtml.cs
+D:\Kuliah\Semester 5\praktikum pat paw\RentalKendaraan_20180140095\RentalKendaraan_20180140095\obj\Debug\netcoreapp2.1\Razor\Views\Genders\Details.g.cshtml.cs
+D:\Kuliah\Semester 5\praktikum pat paw\RentalKendaraan_20180140095\RentalKendaraan_20180140095\obj\Debug\netcoreapp2.1\Razor\Views\Genders\Edit.g.cshtml.cs
+D:\Kuliah\Semester 5\praktikum pat paw\RentalKendaraan_20180140095\RentalKendaraan_20180140095\obj\Debug\netcoreapp2.1\Razor\Views\Genders\Index.g.cshtml.cs
