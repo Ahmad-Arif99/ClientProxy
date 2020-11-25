@@ -24,6 +24,7 @@ namespace RentalKendaraan_20180140095.Controllers
             return View(await _context.Gender.ToListAsync());
         }
 
+
         // GET: Genders/Details/5
         public async Task<IActionResult> Details(int? id)
         {
